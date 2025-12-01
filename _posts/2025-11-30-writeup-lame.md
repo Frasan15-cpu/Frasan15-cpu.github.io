@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Leam: Informe de Laboratorio" 
+title: "Lame: Informe de Laboratorio" 
 date: 2025-11-30 18:30:00 -0300
-categories: [WRITEUPS/Leam]
+categories: [WRITEUPS/]
 tags: [HTB, Leam, fácil]
 ---
 
-# 💀 Leam: Informe Completo del Laboratorio
+# 💀 Lame: Informe Completo del Laboratorio
