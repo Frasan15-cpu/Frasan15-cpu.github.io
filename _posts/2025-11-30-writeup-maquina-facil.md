@@ -3,7 +3,7 @@ layout: post
 title: "Esqueleto: Laboratorio Resuelto (HTB)" # Título del post
 date: 2025-11-30 18:30:00 -0300
 # Implementando la jerarquía de 4 niveles que deseas:
-categories: [WRITEUPS/Hack The Box/Fáciles/Esqueleto] 
+categories: [WRITEUPS/Hack The Box/Fáciles] # ✅ Esto fuerza la anidación 
 tags: [Esqueleto, Lab, web, sql]
 ---
 
