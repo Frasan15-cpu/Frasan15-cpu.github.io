@@ -11,6 +11,10 @@ lang: en
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
+# --- ¡LÍNEA AÑADIDA PARA SOLUCIONAR EL ERROR 404 EN CATEGORÍAS! ---
+url_case_mode: lowercase
+# ------------------------------------------------------------------
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
@@ -19,7 +23,7 @@ title: Francisco Noya Portafolio # the main title
 tagline: aka. Frasan15 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Hola! mi nombre es Francisco, aquí encontrarás mis proyectos, write-ups, noticias y aprendizajes sobre ciberseguridad. Soy un entusiasta de la tecnología y este espacio es mi forma de compartir conocimientos, documentar mi recorrido y conectar con personas que comparten la misma pasión. en este blog encontras artículos sobre ciberseguridad, como lo son writeups, proyectos y más.
+  Hola! mi nombre es Francisco, aquí encontrarás mis proyectos, write-ups, noticias y aprendizajes sobre ciberseguridad. Soy un entusiasta de la tecnología y este espacio es mi forma de compartir conocimientos, documentar mi recorrido >
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -47,19 +51,7 @@ social:
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
-
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
-
-# Web Analytics Settings
-analytics:
-  google:
-    id: G-J7Z01PJ9WZ
+  id: G-J7Z01PJ9WZ
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -85,8 +77,8 @@ pageviews:
 #
 # Available options:
 #
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
+#       light — Use the light color scheme
+#       dark — Use the dark color scheme
 #
 theme_mode: # [light | dark]
 
@@ -106,7 +98,6 @@ social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
-
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
