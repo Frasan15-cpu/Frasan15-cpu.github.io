@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Esqueleto: Laboratorio Resuelto (HTB)" # Título del post
+title: "Esqueleto: Laboratorio Resuelto (HTB)"
 date: 2025-11-30 18:30:00 -0300
-# Implementando la jerarquía de 4 niveles que deseas:
-categories: [WRITEUPS/Hack The Box/Fáciles/Esqueleto] # <-- ¡Ahora sí, 4 niveles!
-tags: [Esqueleto, Lab, web, sql]
+categories: [writeups/Hack The Box/Fáciles/Esqueleto] # <-- ¡Corregida la sintaxis del Nivel 1!
+tags: [HTB, Esqueleto, fácil]
 ---
 
 # 💀 Esqueleto: Informe Completo del Laboratorio
