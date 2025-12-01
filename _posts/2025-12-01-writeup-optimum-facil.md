@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Writeup: [Nombre de la Máquina] - Fácil"
+title: "Optimum: Laboratorio Resuelto (HTB)"
 date: 2025-12-01 10:00:00 -0300
-categories: [Writeups/Hack The Box/Fáciles]
-tags: [HTB, linux, web, fácil]
+categories: [WRITEUPS/Hack The Box/Fáciles/Optimum] # Nivel 1, 2, 3 y 4 (Máquina)
+tags: [HTB, Optimum, fácil]
 ---
 
 # 🎯 Objetivo: [Nombre de la Máquina]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introducción a Writeups Fáciles"
+title: "Introducción a la Subsección Fáciles"
 date: 2025-11-02 01:00:00 -0300
-categories: [writeups/Hack The Box/Fáciles] # <-- ¡Solo tres niveles!
+categories: [WRITEUPS/Hack The Box/Fáciles] # Nivel 1, 2 y 3 solamente
+tags: [index, htb, facil]
 ---
-Este post ayuda a forzar la anidación del nivel de dificultad.
