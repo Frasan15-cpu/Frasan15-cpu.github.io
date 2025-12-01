@@ -2,6 +2,7 @@
 title: "¡Bienvenido a mi Portafolio de Ciberseguridad!"
 date: 2025-12-01 12:00:00 -0300
 pin: true
+category: [Portafolio]
 ---
 
 ¡Hola! Soy **Francisco Noya (Frasan15)**, un entusiasta de la ciberseguridad.
@@ -16,7 +17,5 @@ Aquí puedes encontrar:
 * **Certificaciones:** Mi progreso formativo y logros.
 
 Te invito a explorar mis **Categorías** en el menú lateral para encontrar el contenido que más te interese.
-
-
 
 ---
