@@ -1,8 +1,9 @@
----
+--
 layout: post
-title: "Lame" 
+title: "Twomillion"
 date: 2025-11-30 18:30:00 -0300
 categories: [WRITEUPS]
-tags: [HTB, Lame]
+tags: [HTB, Twomillion]
 ---
-Writeup lame
+Writeup Twomillion
+
