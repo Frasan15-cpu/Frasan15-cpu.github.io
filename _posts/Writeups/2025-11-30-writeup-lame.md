@@ -114,3 +114,12 @@ Bash
 cat /root/root.txt
 ✅ Conclusión
 Lame es un claro ejemplo de los riesgos que implica ejecutar servicios críticos con versiones desactualizadas. La vulnerabilidad de Samba usermap_script permitió el acceso de root sin necesidad de una escalada posterior.
+
+
+
+```markdown
+**Salida Clave (Samba):**
+```bash
+PORT     STATE SERVICE VERSION
+139/tcp  open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+445/tcp  open  netbios-ssn Samba smbd 3.0.20-Debian (workgroup: WORKGROUP
