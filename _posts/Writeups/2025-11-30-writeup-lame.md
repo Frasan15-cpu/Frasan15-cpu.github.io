@@ -2,7 +2,7 @@
 layout: post
 title: "Lame"
 date: 2025-11-30 18:30:00 -0300
-categories: [Writeups]
+categories: [Writeups,Lame]
 tags: [Htb, Lame, Linux]
 description: "Writeup de la máquina Lame de Hackthebox"
 image: /assets/images/hackthebox.png
