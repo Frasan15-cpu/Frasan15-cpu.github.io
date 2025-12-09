@@ -43,6 +43,7 @@ wait: Una vez que el bucle de puertos ha terminado de enviar todos los intentos,
 
 SCRIPT:
 
+```bash
 #!/bin/bash
 
 # Uso:
@@ -61,7 +62,7 @@ else
     echo -e "\n[*] Uso: ./portScan.sh <ip-address>\n"
     exit 1
 fi
-
+```
 
 COMO SE USA:
 Primero que nada le damos permisos: chmod u+x ./portScan.sh
