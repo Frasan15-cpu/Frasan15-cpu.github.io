@@ -4,6 +4,7 @@ title: "Hacking-etico-Cisco"
 date: 2025-11-30 18:30:00 -0300
 categories: [Certificados-Cursos,Hacking-etico-Cisco]
 tags: [Certificaciones, Cisco]
+image: /assets/images/cisco.jpg
 ---
 Cisco (Hacking Ético)
 Después de completar la ruta de formación de Cisco enfocada en Ciberseguridad Ofensiva, puedo decir que esta certificación ha sido un punto de inflexión en mi desarrollo profesional. No es solo un curso teórico, sino un reto que te obliga a pensar desde la perspectiva del atacante para construir defensas robustas.

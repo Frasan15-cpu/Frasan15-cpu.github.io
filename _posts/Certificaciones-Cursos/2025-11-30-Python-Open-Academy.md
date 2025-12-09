@@ -4,6 +4,7 @@ title: "Python-Open-Academy"
 date: 2025-11-30 18:30:00 -0300
 categories: [Certificados-Cursos,Python-Open-Academy]
 tags: [Certificaciones, Python]
+image: /assets/images/pythonMIT.jpg
 ---
 Open Academy (Python)
 

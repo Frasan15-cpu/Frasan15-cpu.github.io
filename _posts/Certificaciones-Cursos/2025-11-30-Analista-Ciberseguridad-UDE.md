@@ -4,6 +4,7 @@ title: "Analista en ciberseguridad-UDE"
 date: 2025-11-30 18:30:00 -0300
 categories: [Certificados-Cursos,Analista en ciberseguridad-UDE]
 tags: [Certificaciones, UDE]
+image: /assets/images/ude.jpg
 ---
 Universidad de la Empresa (Analista en Ciberseguridad)
 A diferencia de las certificaciones puramente ofensivas, este curso llenó el vacío en mi conocimiento sobre la defensa, la gestión de riesgos y el cumplimiento normativo (Compliance).
@@ -20,3 +21,4 @@ Duración: [1 año]
 Fecha de Finalización: [Julio del 2025]
 
 Valoración Personal: [Ej: 10/10, ¡Altamente recomendable!]
+

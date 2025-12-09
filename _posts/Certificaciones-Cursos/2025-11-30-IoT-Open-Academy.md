@@ -4,6 +4,7 @@ title: "IoT-Open-Academy"
 date: 2025-11-30 18:30:00 -0300
 categories: [Certificados-Cursos,IoT-Open-Academy]
 tags: [Certificaciones, IoT]
+image: /assets/images/iotMit.jpg
 ---
 Open Academy (Iot)
 

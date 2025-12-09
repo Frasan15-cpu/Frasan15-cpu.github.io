@@ -4,6 +4,7 @@ title: "Ciberseguridad-Google-Coursea"
 date: 2025-11-30 18:30:00 -0300
 categories: [Certificados-Cursos,Ciberseguridad-Google-Coursea]
 tags: [Certificaciones, Google, Coursea]
+image: /assets/images/google-coursea.jpg
 ---
 Google-Coursea (Ciberseguridad)
 
