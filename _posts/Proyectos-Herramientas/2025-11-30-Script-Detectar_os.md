@@ -21,7 +21,6 @@ Es útil durante la fase de reconocimiento para tener una idea inicial del tipo 
 
 SCRIPT:
 
-```bash
 #!/usr/bin/python3
 #coding: utf-8
 
@@ -64,4 +63,3 @@ if __name__ == "__main__":
 
     print("\n%s (ttl -> %s): %s" % (ip_address, ttl, os_name))
 
-```
