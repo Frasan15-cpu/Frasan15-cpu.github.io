@@ -48,7 +48,7 @@ Ejemplo vulnerable:
 
 ## TIPOS DE XSS
 
-##1 XSS Reflejado (Reflected XSS)
+## 1 XSS Reflejado (Reflected XSS)
 
 El payload se envía en la petición HTTP y se refleja en la respuesta.
 
@@ -67,7 +67,7 @@ https://victima.com/buscar?q=<script>alert(1)</script>
 - Muy común en parámetros GET
 
 
-##2 XSS Almacenado (Stored XSS)
+## 2 XSS Almacenado (Stored XSS)
 
 El código malicioso se guarda en la base de datos y se ejecuta cada vez que alguien visita la página.
 
@@ -94,7 +94,7 @@ Payload típico:
 - Persistente
 
 
-##3 XSS Basado en DOM (DOM-Based XSS)
+## 3 XSS Basado en DOM (DOM-Based XSS)
 
 Ocurre completamente en el navegador del usuario.
 
