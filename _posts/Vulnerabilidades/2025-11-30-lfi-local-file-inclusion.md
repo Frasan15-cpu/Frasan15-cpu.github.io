@@ -2,7 +2,7 @@
 layout: post
 title: "LFI (Local File Inclusion)"
 date: 2025-11-30 18:30:00 -0300
-categories: [Vulnerabilidad,Web]
+categories: [Vulnerabilidad,LFI]
 tags: [Vulnerabilidad, LFI, Web]
 description: "Vulnerabilidad LFI (Local File Inclusion)"
 ---
