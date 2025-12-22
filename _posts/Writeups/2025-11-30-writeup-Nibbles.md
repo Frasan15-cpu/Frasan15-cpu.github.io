@@ -121,4 +121,4 @@ whoami
 Una vez realizado eso ya deberiamos de tener privilegios **ROOT**
 
 
-La maquina **nibbles** me parecio una maquina muy buena y divertida en cuanto a las maquinas http, muy recoemndable de hacer.
+La maquina **nibbles** me parecio una maquina muy buena y divertida en cuanto a las maquinas http, muy recomendable de hacer.
