@@ -9,7 +9,7 @@ image: /assets/images/hackthebox.png
 ---
 ## Resumen de la resolución
 
-**Expressway** es una máquina **Linux** de dificultad **Easy** de la plataforma de **HackTheBox**, es una máquina  la cual consta con simplemente un puerto abiero, requiriendo poco tiempo para explotarla.
+**Expressway** es una máquina **Linux** de dificultad **Easy** de la plataforma de **HackTheBox**, es una máquina  la cual consta con simplemente un puerto abierto, requiriendo poco tiempo para explotarla.
 
 ---
 ## Enumeración
