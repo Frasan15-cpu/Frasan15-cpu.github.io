@@ -23,7 +23,7 @@ sudo bash auto_deploy.sh tproot.tar
 
 Luego le lanzamos un **ping** para comprobar si la maquina esta activa. Verificamos que responde correctamente devolviendo el paquete enviado. A continuacion, utilizamos un script propio que, a partir del valor del  **ttl**  permite identificar el tipo de sistema operativo: **Linux (TTL 64 )** o **Windows (TTL 128)**, en este caso, observamos un **TTL** próximo a 64 (**64**) por lo que se trata de una máquina **Linux**
 
-/assets/images/pingtproot.png
+![](/assets/images/pingtproot.png)
 
 > El motivo por el cual el **TTL** es de **64** es porque el paquete pasa por unos intermediarios (routers) antes de llegar a su destino (máquina atacante). Esto podemos comprobarlo con el comando `ping -c 1 -R 10.129.43.173`.
 
@@ -35,7 +35,7 @@ En segundo lugar, realizaremos un escaneo por **TCP** usando **Nmap** para ver q
 ```bash
 nmap -p- --open -T5 -v -n 172.17.0.2
 ```
-/assets/images/primernmaptproot.png
+![](/assets/images/primernmaptproot.png)
 
 Observamos como nos reporta que se encuentran abiertos dos puertos.
 
@@ -46,7 +46,7 @@ A continuación, volveremos a realizar un escaneo con **Nmap**, pero esta vez se
 ```bash
 nmap -sC -sV -p21,80 172.17.0.2 -oN targeted
 ```
-/assets/images/segundonmaptproot.png
+![](/assets/images/segundonmaptproot.png)
 
 En dichos escaneos de **Nmap**, lo primero que llama la atención es la version del puerto 21.
 
@@ -57,7 +57,7 @@ Como **FTP** cuenta con una version vulnerable la buscamos mediante **searchsplo
 ```bash
 searchsploit vsftpd 2.3.4
 ```
-/assets/images/searchsploittproot.png
+![](/assets/images/searchsploittproot.png)
 
 Al ejecutar dicho comando confirmamos que dicha version es vulnerable y que se puede explotar mediante MetaSploit
 
@@ -80,7 +80,7 @@ use 0
 set RHOSTS 172.17.0.2
 run
 ```
-/assets/images/msftproot.png
+![](/assets/images/msftproot.png)
 
 Como podemos ver en la imagen al completarse la explotación logramos conseguir acceso como usuario root.
 
